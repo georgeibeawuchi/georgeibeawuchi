@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, i'm Lloyd
+
+I am a Python Developer, recently graduating from HyperionDev's Cyber Security Bootcamp.
+
+
+
 
 <!--
 **georgeibeawuchi/georgeibeawuchi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
